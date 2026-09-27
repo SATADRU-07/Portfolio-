@@ -1,0 +1,12 @@
+[
+  {
+    "id": "inq_1789455959217",
+    "name": "Peter Parker",
+    "email": "peter@dailybugle.com",
+    "engagement": "Full Product",
+    "message": "Need a web application built for Spider-Man sightings.",
+    "ip": "127.0.0.1",
+    "userAgent": "Python-urllib/3.13",
+    "receivedAt": "2026-09-15T12:35:59.217792"
+  }
+]
