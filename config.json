@@ -1,0 +1,117 @@
+{
+  "profile": {
+    "name": "Satadru",
+    "lastName": "Addya",
+    "role": "B.Tech CSE AIML Student • Developer • Builder",
+    "bio": "Building fast, high-performance web applications, resilient distributed systems, and cinematic digital experiences.",
+    "email": "satadrusleeps@gmail.com",
+    "location": "Kolkata, India",
+    "responseRate": "Within 24 hours",
+    "availableForRoles": true
+  },
+  "socialLinks": {
+    "github": "https://github.com/SATADRU-07",
+    "linkedin": "https://www.linkedin.com/in/satadru-addya-24590a2a7/",
+    "instagram": "https://www.instagram.com/rizzz_fuxks/?hl=en",
+    "email": "satadrusleeps@gmail.com"
+  },
+  "projects": [
+    {
+      "name": "Sharodshav — Optimal Pandal Navigation",
+      "category": "Full-Stack Geospatial & AI Platform",
+      "tag": "Full-Stack",
+      "status": "Live",
+      "desc": "An intelligent crowd-routing and pandal-hopping web platform designed for Kolkata Durga Puja. Implements zone-based pathfinding across North, Central, and South Kolkata, day-by-day festival itineraries from Shashti to Dashami, real-time geolocation distance tracking, and an integrated 'Pujo AI' smart conversational assistant.",
+      "tech": ["Next.js", "TypeScript", "Tailwind CSS", "Interactive Maps", "Pujo AI", "Geolocation API"],
+      "github": "https://github.com/SATADRU-07/Sharodshav",
+      "demo": "https://github.com/SATADRU-07/Sharodshav",
+      "image": "assets/projects/sharodshav.png"
+    },
+    {
+      "name": "SkillGrad — Bridging Skills and Industry",
+      "category": "Career Tech & Opportunity Marketplace",
+      "tag": "Full-Stack",
+      "status": "Live",
+      "desc": "A talent matchmaking and internship discovery platform that turns student skills into paid industry experiences. Connects 3,500+ students with verified company projects, tailored skill assessments, recruiter hiring portals, and real-world internship opportunities.",
+      "tech": ["React", "TypeScript", "Tailwind CSS", "Node.js", "REST APIs", "PostgreSQL"],
+      "github": "https://github.com/SATADRU-07/SkillGrad",
+      "demo": "https://github.com/SATADRU-07/SkillGrad",
+      "image": "assets/projects/skillgrad.png"
+    },
+
+    {
+      "name": "HyperKV Distributed Store",
+      "category": "Distributed Tool",
+      "tag": "Backend",
+      "status": "Shipped",
+      "desc": "High-throughput, Raft-consensus key-value store with sub-millisecond tail latencies, automated failover, and gRPC endpoints.",
+      "tech": ["Go", "Raft", "gRPC", "Docker", "Prometheus"],
+      "github": "https://github.com/your-username/hyperkv-store",
+      "demo": "https://hyperkv.example.com"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "HacKRIT @ DevX 2.0 (GDG TIU)",
+      "category": "24-Hour Hackathon · 2nd Place",
+      "organization": "Team Tri Stack Overflow · GDG On Campus TIU",
+      "date": "2026",
+      "description": "Secured 2nd Place out of competing developer teams for exceptional technical endurance, rapid prototyping, and architecting an innovative software solution within 24 hours.",
+      "certificate": "assets/certificates/hackrit-devx.png"
+    },
+    {
+      "title": "Hult Prize at Techno India University",
+      "category": "Global Social Venture · 2nd Runners Up",
+      "organization": "Hult Prize Foundation · School of the Future",
+      "date": "Feb 2026",
+      "description": "Awarded 2nd Runners Up for pitching and architecting a sustainable, impact-driven venture solving pressing global challenges through tech and social enterprise.",
+      "certificate": "assets/certificates/hult-prize.png"
+    },
+    {
+      "title": "Sandbox CCU Challenge",
+      "category": "Innovation Sprint · Top Team",
+      "organization": "XEN CLUB · else/play & Rebalance Institute",
+      "date": "Aug – Sept 2025",
+      "description": "Awarded Certificate of Excellence as a top-performing team in a week-long high-intensity product innovation and design sprint building solutions for urban challenges.",
+      "certificate": "assets/certificates/sandbox-ccu.png"
+    },
+    {
+      "title": "2025 Cloud Study Jams",
+      "category": "Google Cloud · Top 25 Finisher",
+      "organization": "Google Developer Groups On Campus",
+      "date": "Oct – Nov 2025",
+      "description": "Earned a spot in the Top 25 across the university cohort by mastering hands-on Google Cloud computing tracks, architecture design, and infrastructure deployment.",
+      "certificate": "assets/certificates/cloud-study-jams.png"
+    }
+  ],
+  "certifications": [
+    { "name": "Develop Gen AI Apps with Gemini and Streamlit", "issuer": "Google Cloud", "type": "Skill Badge · Generative AI", "date": "Oct 26, 2025" },
+    { "name": "Prompt Design in Vertex AI", "issuer": "Google Cloud", "type": "Skill Badge · Vertex AI", "date": "Oct 26, 2025" },
+    { "name": "Level 3: Generative AI", "issuer": "Google Cloud Arcade", "type": "Arcade Milestone · GenAI", "date": "Oct 31, 2025" },
+    { "name": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud", "issuer": "Google Cloud", "type": "Completion Badge", "date": "Jul 20, 2026" },
+    { "name": "Build a Secure Google Cloud Network", "issuer": "Google Cloud", "type": "Skill Badge · Intermediate", "date": "Jun 30, 2026" },
+    { "name": "Build Serverless Applications with Cloud Run Functions", "issuer": "Google Cloud", "type": "Skill Badge · Serverless", "date": "Oct 26, 2025" },
+    { "name": "Implementing Cloud Load Balancing for Compute Engine", "issuer": "Google Cloud", "type": "Skill Badge · Introductory", "date": "Jul 2, 2026" },
+    { "name": "Set Up an App Dev Environment on Google Cloud", "issuer": "Google Cloud", "type": "Skill Badge · Introductory", "date": "Jul 1, 2026" },
+    { "name": "Prepare Data for ML APIs on Google Cloud", "issuer": "Google Cloud", "type": "Skill Badge · Smart Analytics", "date": "Jun 30, 2026" },
+    { "name": "Google Cloud Computing Foundations: Networking and Security in Google Cloud", "issuer": "Google Cloud", "type": "Completion Badge", "date": "Jun 12, 2026" },
+    { "name": "Google Cloud Computing Foundations: Infrastructure in Google Cloud", "issuer": "Google Cloud", "type": "Completion Badge", "date": "Jun 12, 2026" },
+    { "name": "Google Cloud Computing Foundations: Cloud Computing Fundamentals", "issuer": "Google Cloud", "type": "Completion Badge", "date": "Jun 11, 2026" },
+    { "name": "Implement Speech and Language Solutions with Pre-trained APIs", "issuer": "Google Cloud", "type": "Skill Badge · AI / NLP", "date": "Oct 26, 2025" },
+    { "name": "Analyze Speech and Language with Google APIs", "issuer": "Google Cloud", "type": "Skill Badge · AI APIs", "date": "Oct 26, 2025" },
+    { "name": "Store, Process, and Manage Data on Google Cloud - Console", "issuer": "Google Cloud", "type": "Skill Badge · Cloud Storage", "date": "Oct 26, 2025" },
+    { "name": "Build a Website on Google Cloud", "issuer": "Google Cloud", "type": "Skill Badge · Web Systems", "date": "Oct 26, 2025" },
+    { "name": "Set Up a Google Cloud Network", "issuer": "Google Cloud", "type": "Skill Badge · Networking", "date": "Oct 26, 2025" },
+    { "name": "Deploy and Manage Applications on Google App Engine", "issuer": "Google Cloud", "type": "Skill Badge · App Engine", "date": "Oct 26, 2025" },
+    { "name": "Develop with Apps Script and AppSheet", "issuer": "Google Cloud", "type": "Skill Badge · App Development", "date": "Oct 26, 2025" },
+    { "name": "Monitoring in Google Cloud", "issuer": "Google Cloud", "type": "Skill Badge · Observability", "date": "Oct 26, 2025" },
+    { "name": "Deploy and Secure Serverless APIs with API Gateway", "issuer": "Google Cloud", "type": "Skill Badge · API Security", "date": "Oct 24, 2025" },
+    { "name": "Implement Event-Driven Messaging and Automation Workflows", "issuer": "Google Cloud", "type": "Skill Badge · Eventarc & Pub/Sub", "date": "Oct 24, 2025" },
+    { "name": "Implement Cloud Storage and Data Protection Solutions", "issuer": "Google Cloud", "type": "Skill Badge · Storage & Security", "date": "Oct 24, 2025" },
+    { "name": "The Basics of Google Cloud Compute", "issuer": "Google Cloud", "type": "Skill Badge · Compute Engine", "date": "Oct 24, 2025" },
+    { "name": "App Building with AppSheet", "issuer": "Google Cloud", "type": "Skill Badge · Low-Code", "date": "Oct 25, 2025" },
+    { "name": "Organize and Govern Data with Knowledge Catalog", "issuer": "Google Cloud", "type": "Skill Badge · Data Governance", "date": "Oct 25, 2025" },
+    { "name": "Implement Cloud Collaboration and Productivity Workflows", "issuer": "Google Workspace", "type": "Skill Badge · Workflows", "date": "Oct 24, 2025" },
+    { "name": "Get Started with Looker", "issuer": "Google Cloud", "type": "Skill Badge · Business Intelligence", "date": "Oct 24, 2025" }
+  ]
+}
